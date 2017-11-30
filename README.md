@@ -1,0 +1,2 @@
+# segmentation-anderskaestner
+Segmentation assignment
